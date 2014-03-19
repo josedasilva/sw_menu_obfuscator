@@ -1,0 +1,27 @@
+.widefat tr:hover {
+	background-color: #fffbcc;
+}
+
+.widefat .check {
+	text-align: center;
+}
+
+.message {
+
+	background-color: #fff;
+	border: 1px solid #f8f8f8;
+	color: #000;
+
+	line-height: 19px;
+	padding: 5px 0;
+	font-size: 16px;
+	text-align: center;
+	margin: -1px 15px 0 5px;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-border-bottom-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+
+}
