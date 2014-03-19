@@ -1,4 +1,4 @@
-SW Lazy Load
+SW Menu Obfuscator
 ============
 
 ## Description 
