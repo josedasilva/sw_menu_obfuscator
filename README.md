@@ -15,8 +15,9 @@ Please let me know if you need further help with the plugin.
 
 ## Changelog 
 
+### 0.9
+* Major code refactor 
 ### 0.3 
 * Added extra validations to remove several warnings
-
 ### 0.2
 * First version of the plugin

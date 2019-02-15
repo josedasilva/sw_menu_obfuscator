@@ -1,0 +1,23 @@
+.widefat tr:hover {
+	background-color: #fffbcc;
+}
+
+.widefat .check {
+	text-align: center;
+}
+
+.logo {
+	float: left;
+}
+
+.logo img {
+	max-width: 85px;
+}
+
+.form {
+	float: left;
+}
+
+.clearall {
+	clear: left;
+}
